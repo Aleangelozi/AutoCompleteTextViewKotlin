@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AutoCompleteTextView - Kotlin</string>
+
+    <string-array name="Cities">
+        <item>São Paulo</item>
+        <item>Santo André</item>
+        <item>Curitiba</item>
+        <item>Campinas</item>
+    </string-array>
+</resources>
